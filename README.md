@@ -48,8 +48,14 @@ should not used
 ## Writing Methodology/Approach Section:
 
 Youtube: https://www.youtube.com/watch?v=8gGRIzo9OKI
+Reduced Noise: 
+Part 1: https://youtu.be/mgtZWPxAEtE
+Part 2: https://youtu.be/x_oUc6hX6bs
+
 
 Bilibili: https://www.bilibili.com/video/BV1Lq4y1N7VK/
+
+
 
 ### Notes:
 Two structures
