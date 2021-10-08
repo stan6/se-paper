@@ -62,7 +62,7 @@ Figure ... shows/presents the overall workflow. Our approach/ToolName consists o
 - Challenges: (1), (2) / First, Second, add citations
 - It supports three types: (1) ..., (2), (3)
 - tool/subject program/app use \texttt{}
-- know the capitalization correct: GitHub
+- know the correct capitalization: GitHub
 - It uses ...strategies. Specifically, ...
 - Algorithm ...shows
 .... (lines 1--2)
