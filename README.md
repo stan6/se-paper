@@ -1,4 +1,4 @@
-# se-paper
+# Writing Software Engineering papers for beginners
 
 Sections in SE papers
 
