@@ -8,7 +8,7 @@ Sections in SE papers
 - Methodology
 - Evaluation
 - Threats to Validity
-- Lessons Learned (Experience Report)
+- Lessons Learned (Experience Report, Example: http://www.shinhwei.com/issta21main-final.pdf) 
 - Related Work
 - Conclusion
 
