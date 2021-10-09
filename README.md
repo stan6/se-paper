@@ -76,3 +76,10 @@ Figure ... shows/presents the overall workflow. Our approach/ToolName consists o
 - Algorithm ...shows
 .... (lines 1--2)
 In lines 12--13, ...
+
+
+## Useful tools for writing papers in LaTex
+
+- Take picture of a handwriten formula and convert it to LaTex formula: https://mathpix.com/
+
+- Spelling, grammar and style checking of LaTex documents: https://github.com/sylvainhalle/textidote
