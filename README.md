@@ -80,6 +80,5 @@ In lines 12--13, ...
 
 ## Useful tools for writing papers in LaTex
 
-- Take picture of a handwriten formula and convert it to LaTex formula: https://mathpix.com/
+- Refer to [Tools](https://github.com/stan6/se-paper/blob/main/Tools.md)
 
-- Spelling, grammar and style checking of LaTex documents: https://github.com/sylvainhalle/textidote
